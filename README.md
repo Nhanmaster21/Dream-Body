@@ -1,7 +1,11 @@
 # Dream-Body
-How to down and use
+# How to down and use
   -> Click download 
+  
   -> Extract file 
+  
   -> Delete file downloaded , keep file extacted 
+  
   -> Use this file 
+  
   -> Open with VS code or the same app 
